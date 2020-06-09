@@ -51,7 +51,7 @@
     * DHCPv6 (still not supported by Android???)
       * For enterprises/workstations etc...
   * ::1 for default route address (VRRP router1 :11, router2 :12)
-  * IPv4 10.1.1.10  --> 2001:db8:edca:10:1:1::10/64 ?????
+  * IPv4 10.1.1.10  --> 2001:db8:edca::10:1:1:10/64 ?????
   * use service port number: ::53 for DNS, ::80 for HTTP
   * matching IPv4: • 192.0.2.1 → 2001:db8:edca:8001:192:0:2:1
     * (but 2001:db8:edca:8001::192.0.2.1 is something different!)
