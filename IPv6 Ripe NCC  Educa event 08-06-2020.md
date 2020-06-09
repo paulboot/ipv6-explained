@@ -116,7 +116,7 @@ Source: Tore Anderson,
           * Set your nameservers to 2a00:1098:2c::1 / 2a00:1098:2b::1
             2a01:4f9:c010:3f02::1 for public NAT64/DNS64
 
-![2020-06-08 11_33_16-ipv6dc-siit-dc-1](images/2020-06-08 11_33_16-ipv6dc-siit-dc-1.png)
+![2020-06-08 11_33_16-ipv6dc-siit-dc-1](images/2020-06-08%2011_33_16-ipv6dc-siit-dc-1.png)
 
 
 
