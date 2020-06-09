@@ -1,12 +1,8 @@
 ## IPv6 Ripe NCC :: Educa event 08/06/2020
 
-#### Contens
+#### Contents
 
 * [IPv6 numberplan design](#IPv6 numberplan design)
-
-### Marco Schmidt
-
-![image-20200608101154687](.\images\image-20200608101154687.png)
 
 
 
@@ -58,7 +54,8 @@
   * IPv4 10.1.1.10  --> 2001:db8:edca:10:1:1::10/64 ?????
   * use service port number: ::53 for DNS, ::80 for HTTP
   * matching IPv4: • 192.0.2.1 → 2001:db8:edca:8001:192:0:2:1
-    * (but 2001:db8:edca:8001::192.0.2.1 is something different!) 
+    * (but 2001:db8:edca:8001::192.0.2.1 is something different!)
+  * make a clear distinction between public routed prefixes and the rest
 
 #### Examples
 
@@ -84,9 +81,10 @@
   * (at least, those should be the only ones)
   * so need to be easy to type/remember and avoid renumbering them
   * So give each their own /64 (so they can be moved independently) with low subnet #, such as:
-    * DNS server 1: 2001:db8:edca:1::53/64
-    * DNS server 2: 2001:db8:edca:2::53/64
-    * DNS server 3: 2001:db8:edca:3::53/64
+    * DNS server 1: 2001:db8:edca:**1::53**/64
+    * DNS server 2: 2001:db8:edca:**2::53**/64
+    * DNS server 3: 2001:db8:edca:**3::53**/64
+  * make clear separation between public and non public DNS servers
 
 #### References IPv6 plans
 
