@@ -116,7 +116,7 @@ Source: Tore Anderson,
           * Set your nameservers to 2a00:1098:2c::1 / 2a00:1098:2b::1
             2a01:4f9:c010:3f02::1 for public NAT64/DNS64
 
-![2020-06-08 11_33_16-ipv6dc-siit-dc-1](images\2020-06-08 11_33_16-ipv6dc-siit-dc-1.png)
+![2020-06-08 11_33_16-ipv6dc-siit-dc-1](images/2020-06-08 11_33_16-ipv6dc-siit-dc-1.png)
 
 
 
@@ -140,7 +140,7 @@ Source: Tore Anderson,
 
 *Source:* Radek Zajic blog:tech.showmax.com
 
-![2020-06-08 13_10_25-RIPE NCC __Educa - Happy-Eyeballs-01](images\2020-06-08 13_10_25-RIPE NCC __Educa - Happy-Eyeballs-01.png)
+![2020-06-08 13_10_25-RIPE NCC __Educa - Happy-Eyeballs-01](images/2020-06-08%2013_10_25-RIPE%20NCC%20__Educa%20-%20Happy-Eyeballs-01.png)
 
 
 
